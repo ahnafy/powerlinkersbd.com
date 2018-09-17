@@ -1,0 +1,60 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 16/02/2018 11:55
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.html") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: 60px;
+  font-style: normal;
+}
+
+.flaticon-chemical:before { content: "\f100"; }
+.flaticon-currency:before { content: "\f101"; }
+.flaticon-environment:before { content: "\f102"; }
+.flaticon-extraction:before { content: "\f103"; }
+.flaticon-fossil-fuels:before { content: "\f104"; }
+.flaticon-gas-station:before { content: "\f105"; }
+.flaticon-gas-station-1:before { content: "\f106"; }
+.flaticon-gasoline:before { content: "\f107"; }
+.flaticon-gauge:before { content: "\f108"; }
+.flaticon-hand-pump:before { content: "\f109"; }
+.flaticon-molecule:before { content: "\f10a"; }
+.flaticon-oil:before { content: "\f10b"; }
+.flaticon-oil-1:before { content: "\f10c"; }
+.flaticon-oil-2:before { content: "\f10d"; }
+.flaticon-oil-3:before { content: "\f10e"; }
+.flaticon-oil-4:before { content: "\f10f"; }
+.flaticon-oil-platform:before { content: "\f110"; }
+.flaticon-oil-price:before { content: "\f111"; }
+.flaticon-oil-pumps:before { content: "\f112"; }
+.flaticon-oil-rig:before { content: "\f113"; }
+.flaticon-oil-tanker:before { content: "\f114"; }
+.flaticon-oiler:before { content: "\f115"; }
+.flaticon-pipe:before { content: "\f116"; }
+.flaticon-pump-jack:before { content: "\f117"; }
+.flaticon-refinery:before { content: "\f118"; }
+.flaticon-refinery-1:before { content: "\f119"; }
+.flaticon-tank:before { content: "\f11a"; }
+.flaticon-worker:before { content: "\f11b"; }
+.flaticon-worker-1:before { content: "\f11c"; }
+.flaticon-worldwide:before { content: "\f11d"; }
