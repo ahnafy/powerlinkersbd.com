@@ -1,2 +1,2 @@
-# powerlinkersbd.com
-static website for AUTOMATIC BRICK MANUFACTURING PLANT
+# Powerlinkes BD
+This static website was created for an AUTOMATIC BRICK MANUFACTURING PLANT
